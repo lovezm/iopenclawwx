@@ -45,7 +45,7 @@ API Key（bot_xxx:secret）: b******************
 目前小程序正在审核中，通过后应该就可以使用了 这是比较简单的接入到微信的方式
 ## 小程序码
 
-![iOpenClaw 小程序码](https://github.com/lovezm/chatlog/blob/main/gh_498442564d0d_430.jpg?raw=true)
+
 
 ![41dad1186f45c7536daf7dd42d2414c4](https://github.com/user-attachments/assets/9b347747-772f-4983-b35e-1125db5ef3f2)
 
