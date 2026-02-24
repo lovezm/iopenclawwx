@@ -1,4 +1,5 @@
 # 🦞 iopenclawwx
+本项目主要是解决openclaw接入微信
 
 通过 iopenclaw 的微信小程序，实现 **OpenClaw 与个人微信之间的通讯会话**。
 
