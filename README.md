@@ -42,11 +42,12 @@ API Key（bot_xxx:secret）: b******************
 [root@VM34698DE11A383E0 iopenclawwx]# openclaw gateway restart
 ```
 
-目前小程序正在审核中，通过后应该就可以使用了 这是比较简单的接入到微信的方式
+
 ## 小程序码
 ![iOpenClaw 小程序码](https://github.com/lovezm/chatlog/blob/main/gh_498442564d0d_430.jpg?raw=true)
 
-
+请我喝蜜雪
+![3a8685b9f6660df9706496d99d01166c](https://github.com/user-attachments/assets/3f7a8993-ac55-40a7-a4d0-0340e59c868b)
 
 
 
