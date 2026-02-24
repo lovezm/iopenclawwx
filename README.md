@@ -2,7 +2,7 @@
 
 通过 iopenclaw 的微信小程序，实现 **OpenClaw 与个人微信之间的通讯会话**。
 
-在中国大陆环境下，Telegram、WhatsApp 等工具无法正常使用；飞书、钉钉配置复杂；企业微信仅支持企业账号；个人微信无法直接接入 OpenClaw。
+在中国大陆环境下，Telegram、WhatsApp 等工具无法正常使用；飞书、钉钉配置复杂；企业微信仅支持企业账号；个人微信无法直接接入 OpenClaw 需要通过 Hook 或者 ipad/Mac协议接入 提升了封号风险并且接入繁琐。
 
 **iopenclawwx 专为解决这一痛点而生。**
 
