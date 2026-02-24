@@ -1,7 +1,15 @@
 # iopenclawwx
 
+可通过 iopenclaw 的微信小程序实现 OpenClaw 与个人微信之间进行通讯会话。
+
+众所周知的原因，中国大陆无法使用 Telegram、WhatsApp 等工具与 OpenClaw 会话，虽然可以使用飞书、钉钉，但配置起来也比较复杂。而国民第一大 app 微信，却只支持企业微信，不支持个人微信。
+
+iopenclawwx 也是来解决这个用户痛点的！将 OpenClaw 与微信小程序连接，可以直接通过微信小程序与 OpenClaw 进行对话，让 OpenClaw 做你让他做的事情。并且可以随时随地获得 OpenClaw 的回复。
 ✅ 完全免费：无需订阅，无需付费
+
 ✅ 极速接入
+
+官网 https://iopenclaw.app
 ```bash
 openclaw plugins install iopenclawwx
 cd ~/.openclaw/extensions/iopenclawwx
