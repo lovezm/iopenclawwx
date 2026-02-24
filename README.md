@@ -1,15 +1,30 @@
-# iopenclawwx
+# 🦞 iopenclawwx
 
-可通过 iopenclaw 的微信小程序实现 OpenClaw 与个人微信之间进行通讯会话。
+通过 iopenclaw 的微信小程序，实现 **OpenClaw 与个人微信之间的通讯会话**。
 
-众所周知的原因，中国大陆无法使用 Telegram、WhatsApp 等工具与 OpenClaw 会话，虽然可以使用飞书、钉钉，但配置起来也比较复杂。而国民第一大 app 微信，却只支持企业微信，不支持个人微信。
+在中国大陆环境下，Telegram、WhatsApp 等工具无法正常使用；飞书、钉钉配置复杂；企业微信仅支持企业账号；个人微信无法直接接入 OpenClaw。
 
-iopenclawwx 也是来解决这个用户痛点的！将 OpenClaw 与微信小程序连接，可以直接通过微信小程序与 OpenClaw 进行对话，让 OpenClaw 做你让他做的事情。并且可以随时随地获得 OpenClaw 的回复。
-✅ 完全免费：无需订阅，无需付费
+**iopenclawwx 专为解决这一痛点而生。**
 
-✅ 极速接入
+将 OpenClaw 与微信小程序连接，即可通过个人微信随时随地与 OpenClaw 对话。
 
-官网 https://iopenclaw.app
+---
+
+## ✨ 核心优势
+
+- ✅ 支持个人微信（无需企业认证）
+- ✅ 极速接入（3 步完成配置）
+- ✅ 完全免费（无需订阅，无需付费）
+- ✅ 随时随地使用
+- ✅ 安全认证（API Key 鉴权机制）
+- ✅ 轻量插件架构（无侵入式扩展）
+
+---
+
+## 🚀 安装步骤
+
+官网：https://iopenclaw.app
+
 ```bash
 openclaw plugins install iopenclawwx
 cd ~/.openclaw/extensions/iopenclawwx
@@ -51,7 +66,11 @@ API Key（bot_xxx:secret）: b******************
 ℹ 下一步执行: openclaw gateway restart
 [root@VM34698DE11A383E0 iopenclawwx]# openclaw gateway restart
 ```
-
+📱 使用方式
+	1.	打开微信
+	2.	扫描下方小程序码
+	3.	登录并绑定
+	4.	开始与 OpenClaw 对话
 
 ## 小程序码
 ![iOpenClaw 小程序码](https://github.com/lovezm/chatlog/blob/main/gh_498442564d0d_430.jpg?raw=true)
