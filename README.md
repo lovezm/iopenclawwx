@@ -1,5 +1,7 @@
 # iopenclawwx
 
+✅ 完全免费：无需订阅，无需付费
+✅ 极速接入
 ```bash
 openclaw plugins install iopenclawwx
 cd ~/.openclaw/extensions/iopenclawwx
